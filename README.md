@@ -1,8 +1,10 @@
-## Hi there 👋, I'm Syrder
-# 🚀 About Me
+# Hi there 👋, I'm Syrder
+## 🚀 About Me
 I'm a computer science student and DevOps enthusiast. I enjoy programming, networking, system administration and automation. I'm new to the world of homelabing and I will be documenting my journey on [my blog](https://syrder.com/).
-# 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/syrder-baptichon/)
+## 🌐 Connect with Me:
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/syrder-baptichon/)
+## ⚡️ Tech Stack
+[![My Skills](https://skillicons.dev/icons?i=java,maven,c,bash,py,mysql,postgres,php,html,css,linux,ubuntu)](https://skillicons.dev)
 <!--
 **SyrderBaptichon/SyrderBaptichon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
