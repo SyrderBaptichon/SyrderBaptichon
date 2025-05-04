@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Syrder
 
 ## 🚀 About Me
-I'm a computer science student and **DevOps enthusiast**. I enjoy **programming**, **networking**, **system administration** and **automation**. I'm new to the world of homelabing and I will be documenting my journey on **[my blog]**(https://syrder.com/).
+I'm a computer science student and **DevOps enthusiast**. I enjoy **programming**, **networking**, **system administration** and **automation**. I'm new to the world of homelabing and I will be documenting my journey on [**my blog**](https://syrder.com/).
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syrder-baptichon/)
